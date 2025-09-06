@@ -6,7 +6,12 @@
     "expiresAt": "2026-08-25",
     "allowOffline": false
   },
-
+{
+    "id": "abc123def456ghi789",
+    "key": "admin",
+    "expiresAt": "2028-05-30",
+    "allowOffline": false
+  },
 
    {
     "id": "61db727e34db68df",
