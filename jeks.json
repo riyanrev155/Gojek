@@ -6,6 +6,33 @@
     "expiresAt": "2026-08-25",
     "allowOffline": false
   },
+
+
+   {
+    "id": "61db727e34db68df",
+    "username": "dimas",
+    "password": "dimas666",
+    "expiresAt": "2026-08-23",
+    "allowOffline": false
+    },
+
+  {
+    "id": "7a91186c81bac658",
+    "username": "dimsthor",
+    "password": "dimas666",
+    "expiresAt": "2026-08-23",
+    "allowOffline": false
+    },
+
+  {
+    "id": "f92d4e05fb6750ba",
+    "username": "fadly",
+    "password": "fadly123",
+    "expiresAt": "2096-08-23",
+    "allowOffline": false
+    },
+
+  
   {
     "id": "1ac400319c0eaa5b",
     "username": "almi",
@@ -19,5 +46,5 @@
     "password": "amaliA26",
     "expiresAt": "2025-10-06",
     "allowOffline": false
-  }
+   }
 ]
